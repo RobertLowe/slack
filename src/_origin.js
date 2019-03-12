@@ -1,3 +1,4 @@
+"use strict";
 var origin = 'https://slack.com'
 
 // allow configuring the url if steno is running on a non-standard port/host

@@ -1,3 +1,4 @@
+"use strict";
 module.exports = function _promisify(orig) {
   return function(...args) {
     return new Promise(function(resolve, reject) {

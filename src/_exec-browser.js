@@ -1,3 +1,4 @@
+"use strict";
 let validate = require('./_validate')
 let origin = require('./_origin')
 let encode = encodeURIComponent

@@ -1,3 +1,4 @@
+"use strict";
 var api = require('./api.json')
 
 module.exports = function validate(method, params) {

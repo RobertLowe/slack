@@ -1,3 +1,4 @@
+"use strict";
 var bind = require('./_bind')
 var exec = require('./_exec')
 var electronExec = require('./_exec-electron')

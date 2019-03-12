@@ -1,3 +1,4 @@
+"use strict";
 let bind = require('./src/_bind')
 let exec = require('./src/_exec')
 let factory = require('./src/_factory')

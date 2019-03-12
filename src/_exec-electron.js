@@ -1,3 +1,4 @@
+"use strict";
 var qs = require('querystring')
 var url = require('url')
 var validate = require('./_validate')

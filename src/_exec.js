@@ -1,3 +1,4 @@
+"use strict";
 var http = require('tiny-json-http')
 var validate = require('./_validate')
 var promisify = require('./_promisify')
